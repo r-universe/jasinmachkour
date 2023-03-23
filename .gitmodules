@@ -8,3 +8,8 @@
 	url = https://github.com/jasinmachkour/tlars
 	shallow = true
 	registered = true
+[submodule "TRexSelector"]
+	path = TRexSelector
+	url = https://github.com/cran/TRexSelector
+	shallow = true
+	registered = true
