@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "TRexSelector"]
 	path = TRexSelector
-	url = https://github.com/cran/TRexSelector
+	url = https://github.com/jasinmachkour/trexselector
 [submodule "tlars"]
 	path = tlars
 	url = https://github.com/jasinmachkour/tlars
