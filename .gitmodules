@@ -2,9 +2,6 @@
 	path = .registry
 	url = https://github.com/r-universe-org/cran-to-git
 	branch = HEAD
-[submodule "TRexSelector"]
-	path = TRexSelector
-	url = https://github.com/jasinmachkour/trexselector
 [submodule "tlars"]
 	path = tlars
 	url = https://github.com/jasinmachkour/tlars
